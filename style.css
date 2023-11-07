@@ -1,0 +1,39 @@
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: floralwhite;
+    margin: 0%;
+    padding: 30px;
+    background-image: url(image/notes-de-musique-et-lumieres-floues-sur-fond-multicolore-lumineux-e61m9x.jpg);
+    
+}
+img{
+    width: 200px;
+    height: auto;
+}
+
+/* section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap:wrap;
+    padding: 20px; 
+
+} */
+
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+    
+}
+menu{
+    color: blueviolet;
+    text-align: center;
+}
+
+.perle{
+    display: flex;
+    justify-content: center; 
+    flex-direction: row;
+}

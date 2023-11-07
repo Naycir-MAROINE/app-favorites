@@ -1,0 +1,19 @@
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 0px;
+    padding: 40px;
+    background-image: url(image/unnamed.png);
+    color: #161212;
+}
+
+.app p {
+    text-shadow: 3px 2px 2px #CE5937;
+
+}
+
+.snap{
+    color: #000000;
+background: #FFFFFF;
+text-shadow: 2px 2px 0 #bcbcbc, 4px 4px 0 #9c9c9c;
+}
+   
